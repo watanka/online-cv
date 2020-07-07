@@ -52,7 +52,7 @@ career-profile:
       penatibus et magnis dis parturient montes, nascetur ridiculus mus.
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
-education:
+education: |
     - degree: Quantitative Theorems and Methods(QTM) concentrated on Psychology (응용통계학 & 심리학)
       university: Emory University
       time: 2013-2019
